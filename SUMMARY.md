@@ -21,3 +21,4 @@
   * [Đóng profile](api-document/dong-profile.md)
   * [Cập nhật profile](api-document/cap-nhat-profile.md)
   * [Xóa profile](api-document/xoa-profile.md)
+  * [Danh sách nhóm](api-document/danh-sach-nhom.md)
