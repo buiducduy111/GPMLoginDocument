@@ -1,9 +1,9 @@
-# Tạo profile
+# Cập nhật profile
 
 API URL
 
 ```
-POST /api/v3/profiles/create
+POST /api/v3/profiles/update/{profile_id}
 ```
 
 Post data
