@@ -3,19 +3,13 @@
 API URL
 
 ```
-GET: /api/v3/profiles/close
+GET: /api/v3/profiles/close/{id}
 ```
-
-Params:
-
-| Tên param | Bắt buộc | Mô tả          |
-| --------- | -------- | -------------- |
-| id        | Có       | ID của profile |
 
 Ví dụ
 
 ```
-http://127.0.0.1:19995/api/v3/profiles/close?id=xgyasg1995
+http://127.0.0.1:19995/api/v3/profiles/close/xgyasg1995
 ```
 
 Repsonse
