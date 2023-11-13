@@ -8,7 +8,7 @@ GET: /api/v3/profiles
 
 Params
 
-<table><thead><tr><th width="160">Tên param</th><th width="148">Bắt buộc</th><th>Mô tả</th></tr></thead><tbody><tr><td>group</td><td>Không</td><td>Tên group cần lọc</td></tr><tr><td>page</td><td>Không</td><td>Số trang (mặc định 1)</td></tr><tr><td>per_page</td><td>Không</td><td>Số profile mỗi trang (mặc định 50)</td></tr></tbody></table>
+<table><thead><tr><th width="160">Tên param</th><th width="148">Bắt buộc</th><th>Mô tả</th></tr></thead><tbody><tr><td>group_id</td><td>Không</td><td>ID group cần lọc (lấy tại api Danh sách nhóm)</td></tr><tr><td>page</td><td>Không</td><td>Số trang (mặc định 1)</td></tr><tr><td>per_page</td><td>Không</td><td>Số profile mỗi trang (mặc định 50)</td></tr><tr><td>sort</td><td>Không</td><td>0 - Mới nhất, 1 - Cũ tới mới, 2 - Tên A-Z, 3 - Tên Z-A</td></tr><tr><td>search</td><td>Không</td><td>Từ khóa profile name</td></tr></tbody></table>
 
 Ví dụ
 
@@ -26,10 +26,9 @@ Response
         "raw_proxy": "RAW_PROXY",
         "browser_type": "chromium / firefox",
         "browser_version": "BROWSER_VERSISON",
-        "group": "NAME_OF_GROUP",
+        "group_id": "ID_OF_GROUP",
         "profile_path": "Local path or S3",
         "note": "",
-        "color": "",
         "created_at": "DATE"
     }
 ]
