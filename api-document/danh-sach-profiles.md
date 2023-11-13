@@ -19,17 +19,21 @@ http://127.0.0.1:19995/api/v3/profiles?group=Ebay&page=1&per_page=100
 Response
 
 ```json
-[
-    {
-        "id": "ID_OF_PROFILE",
-        "name": "NAME_OF_PROFILE",
-        "raw_proxy": "RAW_PROXY",
-        "browser_type": "chromium / firefox",
-        "browser_version": "BROWSER_VERSISON",
-        "group_id": "ID_OF_GROUP",
-        "profile_path": "Local path or S3",
-        "note": "",
-        "created_at": "DATE"
-    }
-]
+{
+    "success": true,
+    "data": [
+        {
+            "id": "ID_OF_PROFILE",
+            "name": "NAME_OF_PROFILE",
+            "raw_proxy": "RAW_PROXY",
+            "browser_type": "chromium / firefox",
+            "browser_version": "BROWSER_VERSISON",
+            "group_id": "ID_OF_GROUP",
+            "profile_path": "Local path or S3",
+            "note": "",
+            "created_at": "DATE"
+        }
+    ],
+    "message": "OK"
+}
 ```
