@@ -11,6 +11,7 @@ Repsonse
 ```json
 {
     "success": true,
+    "data": null,
     "message": "Xóa thành công"
 }
 ```
