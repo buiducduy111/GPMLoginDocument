@@ -16,6 +16,7 @@
   * [TCP/IP Fingerprint](browser-fingerprint/tcp-ip-fingerprint.md)
 * [API document](api-document/README.md)
   * [Danh sách profiles](api-document/danh-sach-profiles.md)
+  * [Lấy thông tin profile](api-document/lay-thong-tin-profile.md)
   * [Tạo profile](api-document/tao-profile.md)
   * [Mở profile](api-document/mo-profile.md)
   * [Đóng profile](api-document/dong-profile.md)
