@@ -13,6 +13,7 @@ Params:
 | addination\_args | Không    | Các param khởi động cùng trình duyệt, cần hiểu rõ về trình duyệt mới có thể dùng thông số này |
 | win\_scale       | Không    | Giá trị từ 0 tới 1.0                                                                          |
 | win\_pos         | Không    | Giá trị tọa độ trình duyệt theo dạng x,y                                                      |
+| win\_size        | Không    | Giá trị width,height                                                                          |
 
 Ví dụ
 
