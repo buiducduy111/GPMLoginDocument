@@ -11,7 +11,7 @@ Post data
 ```json
 {
     "profile_name" : "NAME_OF_PROFILE",
-    "group": "NAME_OF_GROUP",
+    "group_id": 1,
     "raw_proxy" : "",
     "startup_urls": "",
     "note": "",
