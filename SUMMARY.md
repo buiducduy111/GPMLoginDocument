@@ -37,3 +37,4 @@
   * [Không nhận thông số fake](loi-thuong-gap/khong-nhan-thong-so-fake.md)
   * [Bị xóa file thực thi exe](loi-thuong-gap/bi-xoa-file-thuc-thi-exe.md)
   * [Không kết nối được Proxy / Socks5](loi-thuong-gap/khong-ket-noi-duoc-proxy-socks5.md)
+  * [Profile không lưu dữ liệu](loi-thuong-gap/profile-khong-luu-du-lieu.md)
