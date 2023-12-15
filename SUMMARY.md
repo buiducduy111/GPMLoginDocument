@@ -33,3 +33,7 @@
   * [Scroll](none-code-automation/scroll.md)
   * [Other](none-code-automation/other.md)
   * [Helper](none-code-automation/helper.md)
+* [Lỗi thường gặp](loi-thuong-gap/README.md)
+  * [Không nhận thông số fake](loi-thuong-gap/khong-nhan-thong-so-fake.md)
+  * [Bị xóa file thực thi exe](loi-thuong-gap/bi-xoa-file-thuc-thi-exe.md)
+  * [Không kết nối được Proxy / Socks5](loi-thuong-gap/khong-ket-noi-duoc-proxy-socks5.md)
