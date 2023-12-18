@@ -3,7 +3,7 @@
 API URL
 
 ```
-GET: /api/v3/profiles/open/{id}
+GET: /api/v3/profiles/start/{id}
 ```
 
 Params:
