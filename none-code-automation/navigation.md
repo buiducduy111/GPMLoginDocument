@@ -6,11 +6,7 @@ Chức năng các action
 
 <mark style="color:red;">**Chú ý: tất cả các đầu vào đều có thể nhúng các biến khác bằng định dạng $TÊN\_BIẾN**</mark>
 
-**Active tab**
+Video chi tiết
 
-* Đầu vào: số thứ tự tab tính từ 0
-
-**Wait URL changed**
-
-* Đầu vào: URL hiện tại, thông thường là biến nhúng gọi từ **Get current URL**
+[**https://youtu.be/Xozaz0\_2GkA**](https://youtu.be/Xozaz0\_2GkA)
 

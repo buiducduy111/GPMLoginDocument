@@ -6,14 +6,5 @@ Chức năng các action
 
 <mark style="color:red;">**Chú ý: tất cả các đầu vào đều có thể nhúng các biến khác bằng định dạng $TÊN\_BIẾN**</mark>
 
-**Switch to popup**
-
-Đầu vào: đoạn text chứa trong title của popup
-
-**Execute javascript**
-
-Đây lầ một action rất mạnh, cho phép tính toán và thực hiện những công việc app chưa hỗ trợ, javascript cũng giúp thực hiện đa số automation trên một website
-
-Đầu vào có thể là một đoạn javascript (cần dùng các công cụ online để convert nhiều dòng thành một dòng) hoặc đường dẫn tới file javascript (trường hợp code quá dài)
-
-Chú ý: nếu lưu đầu ra cho action, cần sử dụng **return** trong code js.
+**Video chi tiết**\
+[https://youtu.be/Xozaz0\_2GkA](https://youtu.be/Xozaz0\_2GkA)

@@ -6,23 +6,5 @@ Chức năng các action
 
 <mark style="color:red;">**Chú ý: tất cả các đầu vào đều có thể nhúng các biến khác bằng định dạng $TÊN\_BIẾN**</mark>
 
-**Wait element**
-
-* Đầu vào: Xpath, Wait time in seconds : thời gian chờ tối đa tính bằng giây, nếu quá thời gian này sẽ coi là có lỗi xảy ra
-
-**Get element attribute**
-
-* Đầu vào: Xpath, tên attribute cần lấy
-
-```
-Ví dụ
-
-<a id="linkBtn" href="https://gpmloginapp.com">Click để tới trang chủ</a>
-
-XPATH = //a[@id='linkBtn']
-ATTRIBUTE = href
-
---> Kết quả trả ra: https://gpmloginapp.com
-```
-
-* Đầu ra: tên biến lưu kết quả
+**Video chi tiết**\
+[https://youtu.be/Xozaz0\_2GkA](https://youtu.be/Xozaz0\_2GkA)

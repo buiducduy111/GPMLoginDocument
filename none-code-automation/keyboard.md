@@ -6,10 +6,5 @@ Chức năng các action
 
 <mark style="color:red;">**Chú ý: tất cả các đầu vào đều có thể nhúng các biến khác bằng định dạng $TÊN\_BIẾN**</mark>
 
-**Upload file**
-
-Chú ý: Xpath phải xác định các element có dạng //input\[@type='file'] để thực hiện
-
-**Select combobox**
-
-Chú ý: một số trang web có encode khác unicode cần copy trực tiếp text từ trang web xuống thay vì gõ lại.
+**Video chi tiết**\
+[https://youtu.be/Xozaz0\_2GkA](https://youtu.be/Xozaz0\_2GkA)

@@ -10,87 +10,11 @@ Chi tiết sử dụng từng action xem bên dưới.
 
 
 
-**Declare variable**
+**Video chi tiết từng chức năng:**
 
-* Đầu vào: Giá trị cần đưa vào (có thể nhúng biến khác thông qua kí tự $, ví dụ $giatri1)
-* Đầu ra: tên biến lưu kết quả
+[https://youtu.be/mfLT9FnHq4E](https://youtu.be/mfLT9FnHq4E)
 
-**Random number**
-
-* Đầu vào: Khoảng giá trị cần random. Ví dụ : 10,20 (cho phép nhúng biến, ví dụ: $min, $max)
-* Đầu ra: tên biến lưu kết quả
-
-**Split text**
-
-* Đầu vào: chuỗi có định dạng
-
-```
-Text;Kí tự phân cách
-```
-
-Ví dụ
-
-```
-buiducduygame1@gmail.com|MyPassword@123;|
-
---> Phân cách chuỗi buiducduygame1@gmail.com|MyPassword@123 bởi kí tự |
-```
-
-* Đầu ra: tên biến lưu kết quả
-
-```
-Biến này có định dạng mảng nên có thể truy cập như sau
-$test[0], $test[1], $test[2]...
-Trong ví dụ trên, nếu điền biến đầu ra là test thì ta có
-
-$test[0] - buiducduygame1@gmail.com
-$test[1] - MyPassword@123
-
-```
-
-**Math execute**
-
-* Đầu vào: một chuỗi các phép toán cần thực hiện
-
-```
-Ví dụ:
-$giaTri1 + 10 - 5*2
-```
-
-* Đầu ra: tên biến lưu kết quả
-
-**Read random line**
-
-* Đầu vào: đường dẫn tới file text trong máy
-* Đầu ra: tên biến lưu kết quả
-
-**Delay**
-
-* Đầu vào: khoảng thời gian cần dely theo định dạng min,max tính theo milisecond (ví dụ: 1000,3000 --> từ 1 tới 3 giây)
-
-**Http Get**
-
-* Đầu vào: Get URL
-* Đầu ra: tên biến lưu kết quả
-
-**Http Post**
-
-* Đầu vào: định dạng URL;Data
-
-\+ Post URL
-
-\+ Data : dạng raw, có thể là json hoặc dạng nối param như email=buiducduygame@gmail.com\&password=Abc1234, tùy thuộc vào quy định của api cần gọi
-
-```
-Ví dụ:
-https://api.gpmloginapp.com/profiles/create;{"name": "Test profile"}
-```
-
-* Đầu ra: tên biến lưu kết quả
-
-**Http Download**
-
-* Đầu vào: định dạng URL;Đường dẫn cần lưu trên máy
+### Giải thích thêm một số chức năng phức tạp
 
 **Read Json**
 
@@ -112,22 +36,3 @@ $ketQua;info;author
 ```
 
 * Đầu ra: tên biến lưu kết quả
-
-**Create excel workbook**
-
-* Đầu vào: đường dẫn cần lưu file excel nếu chạy lệnh export
-* Đầu ra: tên biến lưu kết quả, excel tạm sẽ lưu trong bộ nhớ
-
-**Export excel**
-
-* Đầu vào: định dạng $tên\_biến\_create\_excel\_workbook;Tên cột;Dữ liệu
-
-Dòng excel sẽ được sinh tự động một cách tuần tự, ví dụ cột A1 đã có dữ liệu, phần mềm sẽ tự động ghi vào cột A2
-
-**Get clipboard**
-
-* Đầu ra: tên biến lưu kết quả
-
-**Set clipboard**
-
-* Đầu vào: giá trị text cần set
