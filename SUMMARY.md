@@ -39,3 +39,4 @@
   * [Không kết nối được Proxy / Socks5](loi-thuong-gap/khong-ket-noi-duoc-proxy-socks5.md)
   * [Profile không lưu dữ liệu](loi-thuong-gap/profile-khong-luu-du-lieu.md)
   * [Lỗi liên quan cookie](loi-thuong-gap/loi-lien-quan-cookie.md)
+  * [Báo đỏ ở một số trang check](loi-thuong-gap/bao-do-o-mot-so-trang-check.md)
