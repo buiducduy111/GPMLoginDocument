@@ -40,3 +40,6 @@
   * [Profile không lưu dữ liệu](loi-thuong-gap/profile-khong-luu-du-lieu.md)
   * [Lỗi liên quan cookie](loi-thuong-gap/loi-lien-quan-cookie.md)
   * [Báo đỏ ở một số trang check](loi-thuong-gap/bao-do-o-mot-so-trang-check.md)
+  * [Không upload được profile lưu tại host](loi-thuong-gap/khong-upload-duoc-profile-luu-tai-host.md)
+  * [Xử lý lỗi: The network location cannot be reached](loi-thuong-gap/xu-ly-loi-the-network-location-cannot-be-reached.md)
+  * [Tài khoản của bạn đang được đăng nhập ở một nơi khác](loi-thuong-gap/tai-khoan-cua-ban-dang-duoc-dang-nhap-o-mot-noi-khac.md)
