@@ -42,4 +42,5 @@
   * [Báo đỏ ở một số trang check](loi-thuong-gap/bao-do-o-mot-so-trang-check.md)
   * [Không upload được profile lưu tại host](loi-thuong-gap/khong-upload-duoc-profile-luu-tai-host.md)
   * [Xử lý lỗi: The network location cannot be reached](loi-thuong-gap/xu-ly-loi-the-network-location-cannot-be-reached.md)
-  * [Tài khoản của bạn đang được đăng nhập ở một nơi khác](loi-thuong-gap/tai-khoan-cua-ban-dang-duoc-dang-nhap-o-mot-noi-khac.md)
+  * [Private server: Tài khoản đang được đăng nhập ở một nơi khác](loi-thuong-gap/private-server-tai-khoan-dang-duoc-dang-nhap-o-mot-noi-khac.md)
+  * [Tài khoản bị logout khỏi google](loi-thuong-gap/tai-khoan-bi-logout-khoi-google.md)
