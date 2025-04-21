@@ -34,6 +34,12 @@ Response
             "created_at": "DATE"
         }
     ],
+    "pagination": {
+        "total": 7,
+        "page": 1,
+        "page_size": 100,
+        "total_page": 1
+    },
     "message": "OK"
 }
 ```
